@@ -4,3 +4,5 @@ This app will allow you to input your interest and select the best animes for yo
 
 # Features 
 
+- The options will be Action, love, sports, etc .. 
+-
