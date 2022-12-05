@@ -8,6 +8,7 @@ This app will allow you to search animes based on specific key words that may in
 - From those search results it will select animes that fall into that category
 - Each anime presented will have facts about the anime and differnt characters
 - Search option that would also allow you to type in a specific anime and information is displayed
+- feature that stores you information and favorite anime in a databse
 
 # Stretch Goal 
 
